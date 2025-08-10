@@ -91,7 +91,7 @@ By the end of this project, learners will be able to:
 
 * **Professional Roles:** Senior Developer | Educator | Technical Advisor
 * **Expertise:** React, Python, Java, C++, Blockchain, AI/ML
-📌 **LinkedIn:** [linkedin.com/in/kshitijsawant](https://linkedin.com/in/kshitijsawant)
-📌 **GitHub:** [github.com/KshitijSawant1](https://github.com/KshitijSawant1)
+* **LinkedIn:** [linkedin.com/in/kshitijsawant](https://linkedin.com/in/kshitijsawant
+* **GitHub:** [github.com/KshitijSawant1](https://github.com/KshitijSawant1)
 
 ---
